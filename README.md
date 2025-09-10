@@ -136,12 +136,6 @@ timezone: ^0.10.1
 
 ---
 
-## Demo Video
-
-[Click here to watch the demo video](https://drive.google.com/file/d/14T3ArP49GMtaoIkRWQv7sZ7fXNKscaOI/view?usp=sharing)
-
----
-
 ## References
 
 * [https://github.com/sahuharshit408/Habit-Tracker.git](https://github.com/sahuharshit408/Habit-Tracker.git)
